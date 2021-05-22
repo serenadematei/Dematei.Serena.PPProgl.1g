@@ -1,0 +1,95 @@
+# depslib dependency file v1.0
+1621634893 source:d:\carpetas del usuario\documentos\documentos de codeblock\dematei.serenapplab1\clientes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Clientes.h"
+	"get.h"
+	"Localidad.h"
+
+1621636155 d:\carpetas del usuario\documentos\documentos de codeblock\dematei.serenapplab1\clientes.h
+	"Localidad.h"
+
+1621636402 source:d:\carpetas del usuario\documentos\documentos de codeblock\dematei.serenapplab1\datawarehouse.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"DataWareHouse.h"
+
+1621513192 d:\carpetas del usuario\documentos\documentos de codeblock\dematei.serenapplab1\datawarehouse.h
+	"Fecha.h"
+	"Clientes.h"
+	"Alquileres.h"
+
+1620688175 d:\carpetas del usuario\documentos\documentos de codeblock\dematei.serenapplab1\fecha.h
+
+1621640551 d:\carpetas del usuario\documentos\documentos de codeblock\dematei.serenapplab1\alquileres.h
+	"Categorias.h"
+	"Juegos.h"
+	"Clientes.h"
+	"Fecha.h"
+
+1621640506 d:\carpetas del usuario\documentos\documentos de codeblock\dematei.serenapplab1\juegos.h
+	"Categorias.h"
+
+1621640562 source:d:\carpetas del usuario\documentos\documentos de codeblock\dematei.serenapplab1\alquileres.c
+	<stdio.h>
+	<stdlib.h>
+	"Alquileres.h"
+	"get.h"
+	"Clientes.h"
+	"Categorias.h"
+	"Juegos.h"
+
+1621518722 source:d:\carpetas del usuario\documentos\documentos de codeblock\dematei.serenapplab1\get.c
+	"get.h"
+
+1620737678 d:\carpetas del usuario\documentos\documentos de codeblock\dematei.serenapplab1\get.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
+1621640009 source:d:\carpetas del usuario\documentos\documentos de codeblock\dematei.serenapplab1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"get.h"
+	"Clientes.h"
+	"Juegos.h"
+	"Alquileres.h"
+	"Categorias.h"
+	"DataWareHouse.h"
+	"Localidad.h"
+	"Informes.h"
+
+1621639851 d:\carpetas del usuario\documentos\documentos de codeblock\dematei.serenapplab1\categorias.h
+
+1621630679 source:d:\carpetas del usuario\documentos\documentos de codeblock\dematei.serenapplab1\juegos.c
+	"Juegos.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1621638561 d:\carpetas del usuario\documentos\documentos de codeblock\dematei.serenapplab1\localidad.h
+
+1621640702 source:d:\carpetas del usuario\documentos\documentos de codeblock\dematei.serenapplab1\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Informes.h"
+	"Clientes.h"
+	"Localidad.h"
+	"get.h"
+
+1621643918 d:\carpetas del usuario\documentos\documentos de codeblock\dematei.serenapplab1\informes.h
+	"Alquileres.h"
+	"Juegos.h"
+	"Clientes.h"
+
+1621638561 source:d:\carpetas del usuario\documentos\documentos de codeblock\dematei.serenapplab1\localidad.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Localidad.h"
+
